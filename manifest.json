@@ -1,6 +1,6 @@
 {
-  "name": "GolfMulti記分卡",
-  "short_name": "GolfMulti記分卡",
+  "name": "GolfScore卡",
+  "short_name": "GolfScore卡",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
